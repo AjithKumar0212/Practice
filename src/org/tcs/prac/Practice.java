@@ -9,7 +9,7 @@ public static void main(String[] args)
 	// TODO Auto-generated method stub
 Scanner e =new Scanner(System.in);
 
-System.out.println("phone id ?");
+System.out.println("qwertyuiop");
 int phoneId=e.nextInt();
 System.out.println("phone id is "+phoneId);
 System.out.println("phone name is ");
